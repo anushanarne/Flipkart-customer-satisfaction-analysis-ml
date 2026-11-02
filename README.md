@@ -157,4 +157,4 @@ Among the three evaluated models, Tuned XGBoost was selected as the final model 
 **Project Type:** Classification  
 **Dataset:** Flipkart Customer Support Data  
 **Target:** Satisfied vs At-Risk  
-**Prepared by:** ANUSHA N
+**Prepared by:** Anusha N
