@@ -1,4 +1,4 @@
-# Flipkart-customer-satisfaction-analysis-ml
+# Flipkart-customer-satisfaction-analysis-ML
 Machine Learning Classification project to predict Flipkart customer satisfaction (Satisfied vs At-Risk) using customer support data, EDA, statistical validation, feature engineering, and Logistic Regression, Random Forest, and XGBoost models.
 # Customer Satisfaction Analysis and Prediction Using Machine Learning
 
